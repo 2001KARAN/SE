@@ -203,12 +203,12 @@ class _HomepageState extends State<Homepage> {
                 },
               ),
       ),
-      bottomNavigationBar: CurvedNavigationBar(
+      /* bottomNavigationBar: CurvedNavigationBar(
         height: 60,
         index: index,
         items: items,
         onTap: (index) => setState(() => this.index = index),
-      ),
+      ), */
     );
   }
 
