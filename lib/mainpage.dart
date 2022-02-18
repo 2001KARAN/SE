@@ -1,7 +1,7 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
-//import 'package:loginuicolors/home.dart';
-//import 'package:url_launcher/url_launcher.dart';
+import 'package:loginuicolors/home.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class Mainpage extends StatelessWidget {
   final String ytlink;
